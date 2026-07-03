@@ -1,0 +1,30 @@
+# Dependencies
+node_modules/
+
+# Build Output (Compiled TypeScript/JavaScript)
+dist/
+build/
+out/
+
+# Environment Variables (Keep your secrets safe!)
+.env
+.env.local
+.env.*.local
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Bun specific (Optional, usually for temporary run files)
+.bun/
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
